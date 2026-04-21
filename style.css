@@ -1,0 +1,14 @@
+button {
+  color: white;
+  width: 25vw;
+  height: 3em;
+  background: linear-gradient(to right, #d1a00f, #79b900);
+  border: none;
+  text-align: center;
+}
+img {
+  width: 25vw;
+}
+body {
+  padding: 10% 25% 10% 25%;
+}
